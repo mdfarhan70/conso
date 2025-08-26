@@ -1,0 +1,27 @@
+neumorphic (
+
+background:sede5ec; border-radius: 20px;
+
+box-shadow: 10px 10px 20px #a3b5c6, 10px 10px 20px effffff;
+
+neumorphic-inset (
+
+background:#ee5ec; border-radius: 20p #ffffff
+
+
+
+box-shadow: inset 10px 10px 20px #361c6, Inset -10px 10px 20px
+
+neumorphic-card
+
+display: flex
+
+Flex-direction: column;
+
+justify-content: center;
+
+align-items: center;
+
+padding: 30px; width: 300px;
+
+text-align: center;
